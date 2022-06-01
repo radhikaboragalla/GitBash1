@@ -7,6 +7,7 @@ public class GitBash2Test {
 	public void gitBash2Test()
 	{
 		System.out.println("hi");
+                     // comment by person2
 	}
 
 }
